@@ -37,6 +37,12 @@ body {
     height: 50%; 
 
   }
+
+  .lineprin{
+    width: 100%;
+      height: 2px;
+      background-color:#000000;
+  }
   @media screen and (max-width: 768px) {
     .grid, .gridprin{
       display: grid;
